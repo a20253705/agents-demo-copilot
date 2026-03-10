@@ -1,15 +1,5 @@
-# Lab 4 — AI Data Analysis (10 min)
+# Lab 4 — AI Data Analysis (Bonus)
 
-## Overview
+This lab is available as a self-guided bonus exercise. Use the data in `data/sales_data.csv` and ask Copilot to analyze it in the side panel (Agent mode).
 
-Analyze a real sales dataset **just by asking questions in plain English**. Copilot will write the code, run the analysis, and create charts — you focus on the business insights. There's also a hidden anomaly in the data. Let's see if AI can find it.
-
-## How to Start
-
-Open Copilot Chat in **Agent** mode and type:
-
-```
-Start tutorial lab4
-```
-
-Copilot will guide you through everything step by step.
+Try: "Load the sales data from lab4-data-analysis/data/sales_data.csv and give me a summary. Are there any anomalies?"

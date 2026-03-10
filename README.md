@@ -8,26 +8,25 @@
 
 | Lab | Topic | Time | S3 Concept |
 |-----|-------|------|------------|
-| **Lab 1** | Vibe-code a web app with hot reload | 10 min | Agent loop, tool use, code generation |
-| **Lab 2** | Create agent skills (COPILOT.md) | 10 min | Skills as packaged expertise, lazy-loading |
+| **Lab 1** | Vibe-code a web app | 10 min | Agent loop, tool use, code generation |
+| **Lab 2** | Agent skills — inspect, tweak, test | 10 min | Skills as packaged expertise |
 | **Lab 3** | Build your own MCP server | 15 min | MCP protocol, custom tools, agent extensibility |
-| **Lab 4** | AI-powered data analysis | 10 min | Agent + data, error recovery, ReAct loop |
-| **Lab 5** | Playwright MCP — give Copilot a browser | 10 min | Pre-built MCP servers, browser automation, web-aware agents |
+| **Lab 4** | Give Copilot a browser (Playwright MCP) | 10 min | Pre-built MCP servers, browser automation |
 
-## Quick Start
+## How to Start
 
-```bash
-# Clone the repo:
-git clone https://github.com/YOUR_USERNAME/agents-demo.git
-cd agents-demo
-# Open in VS Code and install recommended extensions
+Open the **GitHub Copilot side panel** in **Agent** mode and type the slash command for each lab:
+
 ```
+/lab1    /lab2    /lab3    /lab4
+```
+
+Copilot guides you through everything step by step. No coding experience needed.
 
 ## Requirements
 
 - A GitHub account
 - VS Code with GitHub Copilot extension
-- Node.js, Python, etc. as needed for labs
 
 ## Privacy Notice
 
@@ -35,4 +34,4 @@ cd agents-demo
 
 ---
 
-*GenAI & AI Agents — S3 ·  · March 2026*
+*GenAI & AI Agents — S3 · March 2026*

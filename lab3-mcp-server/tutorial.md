@@ -6,10 +6,10 @@ Give Copilot **new abilities** by building custom tools it can use. You'll explo
 
 ## How to Start
 
-Open Copilot Chat in **Agent** mode and type:
+In the GitHub Copilot side panel (Agent mode), type:
 
 ```
-Start tutorial lab3
+/lab3
 ```
 
 Copilot will guide you through everything step by step.

@@ -6,10 +6,10 @@ Build a working web app **without writing any code** — just by describing what
 
 ## How to Start
 
-Open Copilot Chat in **Agent** mode and type:
+In the GitHub Copilot side panel (Agent mode), type:
 
 ```
-Start tutorial lab1
+/lab1
 ```
 
 Copilot will guide you through everything step by step.

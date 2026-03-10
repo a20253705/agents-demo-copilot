@@ -1,15 +1,15 @@
-# Lab 2 — Create Agent Skills (10 min)
+# Lab 2 — Agent Skills (10 min)
 
 ## Overview
 
-See how you can give an AI agent **permanent expertise** — like hiring a specialist. You'll watch two pre-built skills in action (a Sales Analyst and a Course Assistant), peek behind the curtain to see how they work, and then create your own custom skill.
+See how a simple text file changes the way an AI behaves — like giving it a **job description**. You'll watch a pre-built skill in action, open the file to see how it works, and make a change to see the effect.
 
 ## How to Start
 
-Open Copilot Chat in **Agent** mode and type:
+In the GitHub Copilot side panel (Agent mode), type:
 
 ```
-Start tutorial lab2
+/lab2
 ```
 
 Copilot will guide you through everything step by step.

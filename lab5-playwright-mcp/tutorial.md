@@ -1,4 +1,4 @@
-# Lab 5 — Give Copilot a Browser (10 min)
+# Lab 4 — Give Copilot a Browser (10 min)
 
 ## Overview
 
@@ -6,10 +6,10 @@ Give Copilot a **web browser** so it can open websites, click buttons, fill form
 
 ## How to Start
 
-Open Copilot Chat in **Agent** mode and type:
+In the GitHub Copilot side panel (Agent mode), type:
 
 ```
-Start tutorial lab5
+/lab4
 ```
 
 Copilot will guide you through everything step by step.

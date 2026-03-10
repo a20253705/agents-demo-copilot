@@ -12,4 +12,4 @@ GitHub Copilot supports two mechanisms for "skills":
 - **Custom Instructions**: `.github/copilot-instructions.md` — always loaded for the repo
 - **Prompt Files**: `.github/prompts/*.prompt.md` — reusable prompt templates invoked on demand
 
-Use Copilot Chat to test how instructions shape agent behavior.
+Use the Copilot side panel to test how instructions shape agent behavior.
