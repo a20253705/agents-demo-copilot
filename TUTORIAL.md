@@ -14,6 +14,28 @@ Each lab is guided by Copilot itself. Open the **GitHub Copilot side panel** in 
 
 No coding experience needed. Copilot does all the technical work.
 
+## Key Concepts
+
+```
+You (plain English) → Agent (AI that acts) → Skills (packaged expertise) → Tools (MCP) → World (browser, data, APIs)
+```
+
+| Concept | One-liner |
+|---------|-----------|
+| **Agent** | An AI that doesn't just answer — it takes action (writes code, runs analysis, browses the web) |
+| **ReAct Loop** | Think → Act → Observe → Repeat. How agents solve problems step by step |
+| **Skill** | A text file that gives an agent permanent expertise — like a job description |
+| **MCP** | A universal standard that connects agents to tools — like USB for AI |
+| **Prompt File** | A recipe that guides an agent through a step-by-step experience (like these labs!) |
+
+## Before You Start (~2 min)
+
+Let Copilot check your environment and install everything you need.
+
+> In the Copilot side panel, type: `/setup-check`
+
+Once you see all green, you're ready to go.
+
 ## Lab 1 — Vibe-Code a Web App (10 min)
 
 Build a working web app without writing any code — just by describing what you want.
