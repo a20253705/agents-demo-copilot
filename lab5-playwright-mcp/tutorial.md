@@ -33,8 +33,9 @@ Open `.vscode/mcp.json` at the project root. You'll see that `playwright` is alr
 
 ```json
 {
-  "mcpServers": {
+  "servers": {
     "playwright": {
+      "type": "stdio",
       "command": "npx",
       "args": ["@playwright/mcp@latest", "--headless"]
     }
